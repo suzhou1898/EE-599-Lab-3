@@ -1,0 +1,5 @@
+Name: Junquan Yu
+E-mail: Junquany@usc.edu
+Summary of Program: According to the Lab2 document PDF, i write this program to do the pancake
+sorting problem, which include the original one and the burnt one. This program can read the data with the specific format from the "input.txt" file as its inputs and write the final results to the specific output file as required.
+Other Information: You need to put the program file and the "input.txt" file under the same folder when you test it with shell file.
